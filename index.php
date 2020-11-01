@@ -11,7 +11,7 @@
   <ul>
 		<li><a href="index.php">Home</a></li>
 		<li><a href="contact.html">Contact</a></li>
-		<li><a href="resis.php">Registrations</a></li>
+		<li><a href="resistrations.php">Registrations</a></li>
 	</ul></div>
     <p><h1 class="header">REGISTER HERE</h1></p>
      
