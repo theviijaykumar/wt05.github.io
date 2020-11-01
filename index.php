@@ -11,7 +11,7 @@
   <ul>
 		<li><a href="index.php">Home</a></li>
 		<li><a href="contact.html">Contact</a></li>
-		<li><a href="registration.php">Registrations</a></li>
+		<li><a href="resis.php">Registrations</a></li>
 	</ul></div>
     <p><h1 class="header">REGISTER HERE</h1></p>
      
@@ -29,7 +29,7 @@
       <span id="mn"></span><BR>
       <button id="mybtn" name="Register">Register</button>
       <BR>
-        <script src="jss.js"></script>
+        <script src="script.js"></script>
     </form>
     
   </div>
@@ -39,7 +39,7 @@
 
 <?php
 
-mysql_connect("localhost","root","") or die (mysql_error());
+mysqli_connect("localhost","root","") or die (mysql_error());
 mysql_select_db("registration") or die (mysql_error());
 
 if(isset($_POST['Register']))
