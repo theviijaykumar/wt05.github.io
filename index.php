@@ -29,7 +29,7 @@
       <span id="mn"></span><BR>
       <button id="mybtn" name="Register">Register</button>
       <BR>
-        <script src="script.js"></script>
+        <script src="jss.js"></script>
     </form>
     
   </div>
