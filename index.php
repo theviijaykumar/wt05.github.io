@@ -10,7 +10,7 @@
     <div class="inline">
   <ul>
 		<li><a href="index.php">Home</a></li>
-		<li><a href="contact.html">Contact</a></li>
+		<li><a href="vcontact.html">Contact</a></li>
 		<li><a href="resistration.php">Registrations</a></li>
 	</ul></div>
     <p><h1 class="header">REGISTER HERE</h1></p>
